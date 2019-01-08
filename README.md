@@ -2,7 +2,11 @@
 
 This is the Python code for processing video and audio using ffmpeg sofrware:
 
-* ss
+1. Extact audio from video.
+
+2. Add audio to video which has no original audio.
+
+3. Remove audio from video.
 
 # Dependency
 
