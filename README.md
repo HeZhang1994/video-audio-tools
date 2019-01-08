@@ -16,3 +16,7 @@ Command to install ffmpeg on Ubuntu:
 ```bash
 sudo apt-get install ffmpeg
 ```
+
+# Motivation
+
+Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better viewing experience.
