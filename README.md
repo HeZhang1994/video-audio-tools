@@ -1,6 +1,8 @@
 # Video and Audio Processing
 
-This is the Python code for processing video and audio using ffmpeg sofrware.
+This is the Python code for processing video and audio using ffmpeg sofrware:
+
+* ss
 
 # Dependency
 
