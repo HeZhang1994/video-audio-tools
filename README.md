@@ -10,9 +10,11 @@ This is the Python code for processing video and audio using ffmpeg sofrware:
 
 # Environment
 
-* __Ubuntu 14.0__
+* __Ubuntu 14.04__
 
-* __Python 3.0__
+# Language
+
+* __Python 3.5.2__
 
 # Dependency
 
