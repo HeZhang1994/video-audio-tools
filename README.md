@@ -43,7 +43,7 @@ $ brew install ffmpeg
 
 # Running
 
-For python implemented code, run:
+For Python implemented code, run:
 ```bash
 $ python3 VideoAudioProcessing.py
 ```
