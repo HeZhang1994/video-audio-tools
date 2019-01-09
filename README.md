@@ -30,14 +30,12 @@ $ sudo apt-get install ffmpeg
 ```
 
 Command to install ffmpeg on MacOS:
-
-Install homebrew:
 ```bash
+# Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-
-Install ffmpeg via homebrew:
 ```bash
+Install ffmpeg via homebrew:
 $ brew install ffmpeg
 ```
 
