@@ -35,7 +35,7 @@ Command to install ffmpeg on MacOS:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 ```bash
-Install ffmpeg via homebrew:
+# Install ffmpeg via homebrew:
 $ brew install ffmpeg
 ```
 
