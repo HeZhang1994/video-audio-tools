@@ -14,7 +14,7 @@ This is the Python code for processing video and audio using ffmpeg sofrware:
 
 or
 
-* __MacOS High Sierra__
+* __MacOS High Sierra 10.13.6__
 
 # Language
 
@@ -30,9 +30,13 @@ $ sudo apt-get install ffmpeg
 ```
 
 Command to install ffmpeg on MacOS:
+
+Install homebrew:
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+Install ffmpeg via homebrew:
 ```bash
 $ brew install ffmpeg
 ```
