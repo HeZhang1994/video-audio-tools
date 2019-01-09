@@ -8,6 +8,12 @@ This is the Python code for processing video and audio using ffmpeg sofrware:
 
 3. Remove audio from video.
 
+# Environment
+
+* __Ubuntu 14.0__
+
+* __Python 3.0__
+
 # Dependency
 
 * __ffmpeg__
