@@ -12,6 +12,10 @@ This is the Python code for processing video and audio using ffmpeg sofrware:
 
 * __Ubuntu 14.04__
 
+or
+
+* __MacOS High Sierra__
+
 # Language
 
 * __Python 3.5.2__
@@ -22,7 +26,15 @@ This is the Python code for processing video and audio using ffmpeg sofrware:
 
 Command to install ffmpeg on Ubuntu:
 ```bash
-sudo apt-get install ffmpeg
+$ sudo apt-get install ffmpeg
+```
+
+Command to install ffmpeg on MacOS:
+```bash
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+```bash
+$ brew install ffmpeg
 ```
 
 # Motivation
