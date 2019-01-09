@@ -1,6 +1,6 @@
 # Video and Audio Processing
 
-This is the Python code for processing video and audio using ffmpeg sofrware:
+This is the Python code for processing video and audio using **ffmpeg** sofrware:
 
 1. Extact audio from video.
 
@@ -24,12 +24,12 @@ or
 
 * __ffmpeg__
 
-Command to install ffmpeg on Ubuntu:
+Command to install **ffmpeg** on **Ubuntu**:
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-Command to install ffmpeg on MacOS:
+Command to install **ffmpeg** on **MacOS**:
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
