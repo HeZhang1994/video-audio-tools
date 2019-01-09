@@ -1,6 +1,8 @@
 # Video and Audio Processing
 
-This is the Python code for processing video and audio using **ffmpeg** sofrware:
+This is the Python implementation of video and audio processing by using **ffmpeg**.
+
+Functions:
 
 1. Extact audio from video.
 
@@ -29,7 +31,7 @@ Command to install **ffmpeg** on **Ubuntu**:
 $ sudo apt-get install ffmpeg
 ```
 
-Command to install **ffmpeg** on **MacOS**:
+Commands to install **ffmpeg** on **MacOS**:
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -42,3 +44,4 @@ $ brew install ffmpeg
 # Motivation
 
 Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better watching experience.
+
