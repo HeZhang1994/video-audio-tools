@@ -41,6 +41,13 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 $ brew install ffmpeg
 ```
 
+# Running
+
+For python implementation, run:
+```bash
+$ python3 VideoAudioProcessing.py
+```
+
 # Motivation
 
 Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better watching experience.
