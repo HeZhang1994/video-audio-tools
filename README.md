@@ -12,15 +12,11 @@ Functions:
 
 # Environment
 
-* __Ubuntu 14.04__
-
-or
-
-* __MacOS High Sierra 10.13.6__
+This code has been tested on **Ubuntu 14.04** and **MacOS High Sierra 10.13.6**.
 
 # Language
 
-* __Python 3.5.2__
+* __Python 3.5 (3.0+)__
 
 # Dependency
 
@@ -45,7 +41,10 @@ $ brew install ffmpeg
 
 For Python implemented code, run:
 ```bash
+$ python VideoAudioProcessing.py
+$ # or
 $ python3 VideoAudioProcessing.py
+$ # if both py2 and py3 exist on your operating system.
 ```
 
 # Motivation
