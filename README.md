@@ -1,6 +1,6 @@
 # Video and Audio Processing
 
-This is the Python implementation of video and audio processing by using **ffmpeg**.
+This is the **Python** implementation of video and audio processing by using **ffmpeg**.
 
 Functions:
 
