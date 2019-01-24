@@ -42,7 +42,8 @@ $ brew install ffmpeg
 
 # Running
 
-1.1 To process audio and video, set the **name/path of input/output files** in ```VideoAudioProcessing.py```;
+### To process audio and video
+1.1 Set the **name/path of input/output files** in ```VideoAudioProcessing.py```;
 
 1.2 Execute the following commnd on Terminal:
 ```bash
@@ -54,7 +55,8 @@ $ brew install ffmpeg
 
 1.3 For more detailed user setting, see comments in ```VideoAudioProcessing.py```.
 
-2.1 To extract audio or convert audio format, set the **name/path of input/output files** in ```AudioExtractor.py```;
+### To extract audio or convert audio format
+2.1 Set the **name/path of input/output files** in ```AudioExtractor.py```;
 
 2.2 Execute the following command on Terminal:
 ```bash
