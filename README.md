@@ -10,6 +10,8 @@ This is the **Python** implementation of video and audio processing by using **f
 
 3. Add audio to video which contains no sound.
 
+*4. Convert audio format (e.g., .m4a -> .wav; .m4a -> .mp3).
+
 # Environment
 
 This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6**.
