@@ -67,3 +67,5 @@ $ brew install ffmpeg
 # Motivation
 
 Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better watching experience.
+
+<i>Last updated: 23/02/2019</i>
