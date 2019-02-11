@@ -2,7 +2,7 @@
 
 This is the **Python** implementation of video and audio processing by using **ffmpeg** library.
 
-### Functions:
+#### Functions:
 
 1. Extact audio from video.
 
@@ -12,15 +12,15 @@ This is the **Python** implementation of video and audio processing by using **f
 
 4. Convert audio format (e.g., **.m4a** <-> **.wav** <-> **.mp3**).
 
-# Environment
+## Environment
 
 This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6**.
 
-# Language
+## Language
 
 * __Python 3.7 (3.0+)__
 
-# Dependency
+## Dependency
 
 * __ffmpeg__
 
@@ -40,9 +40,9 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 $ brew install ffmpeg
 ```
 
-# Running
+## Running
 
-### To process audio and video
+#### To process audio and video
 1.1 Set the **name/path of input/output files** in ```VideoAudioProcessing.py``` (see comments for details);
 
 1.2 Execute the following commnd on Terminal:
@@ -53,7 +53,7 @@ $ brew install ffmpeg
 # if both py2 and py3 exist on your operating system.
 ```
 
-### To extract audio or convert audio format
+#### To extract audio or convert audio format
 2.1 Set the **name/path of input/output files** in ```AudioExtractor.py``` (see comments for details);
 
 2.2 Execute the following command on Terminal:
@@ -64,8 +64,8 @@ $ brew install ffmpeg
 # if both py2 and py3 exist on your operating system.
 ```
 
-# Motivation
+## Motivation
 
 Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better watching experience.
 
-<i>Last updated: 28/01/2019</i>
+<i>Last updated: 11/02/2019</i>
