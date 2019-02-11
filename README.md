@@ -14,7 +14,7 @@ This is the **Python** implementation of video and audio processing by using **f
 
 ## Environment
 
-This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6**.
+This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems.
 
 ## Language
 
