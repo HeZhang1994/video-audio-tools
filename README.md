@@ -24,12 +24,12 @@ This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** 
 
 * __ffmpeg__
 
-For **Ubuntu** OS, execute the following command to install **ffmpeg**.
+For **Ubuntu** OS, execute the following command in Terminal to install **ffmpeg**.
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-For  **MacOS** OS, execute the following commands to install **ffmpeg**.
+For  **MacOS** OS, execute the following commands in Terminal to install **ffmpeg**.
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -44,7 +44,7 @@ $ brew install ffmpeg
 
 1. Set the **name/path of input/output media files** in ```VideoAudioProcessing.py``` (see comments for details).
 
-2. Execute the following command on Terminal.
+2. Execute the following command in Terminal.
 ```bash
 ~$ python VideoAudioProcessing.py
 # or
@@ -56,7 +56,7 @@ $ brew install ffmpeg
 
 1. Set the **name/path of input/output media files** in ```AudioExtractor.py``` (see comments for details).
 
-2. Execute the following command on Terminal.
+2. Execute the following command in Terminal.
 ```bash
 ~$ python AudioExtractor.py
 # or
