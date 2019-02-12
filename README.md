@@ -2,6 +2,8 @@
 
 This is a **Python** implementation of extracting/adding audio from/to video and converting audio formats by using **ffmpeg**.
 
+<i>Please star this repository if you found its content useful.</i>
+
 ### Functions
 
 - Extract audio from video.
