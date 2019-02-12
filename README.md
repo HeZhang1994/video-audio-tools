@@ -24,12 +24,12 @@ This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** 
 
 * __ffmpeg__
 
-For **Ubuntu** OS, execute the following command to install **ffmpeg**:
+For **Ubuntu** OS, execute the following command to install **ffmpeg**.
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-For  **MacOS** OS, execute the following commands to install **ffmpeg**:
+For  **MacOS** OS, execute the following commands to install **ffmpeg**.
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -40,10 +40,11 @@ $ brew install ffmpeg
 
 ## Usage
 
-### To process audio and video
-1.1 Set the **name/path of input/output files** in ```VideoAudioProcessing.py``` (see comments for details);
+### To process audio and video (extract/add audio from/to video)
 
-1.2 Execute the following commnd on Terminal:
+1. Set the **name/path of input/output media files** in ```VideoAudioProcessing.py``` (see comments for details).
+
+2. Execute the following commnd on Terminal.
 ```bash
 ~$ python VideoAudioProcessing.py
 # or
@@ -52,9 +53,10 @@ $ brew install ffmpeg
 ```
 
 ### To extract audio or convert audio format
-2.1 Set the **name/path of input/output files** in ```AudioExtractor.py``` (see comments for details);
 
-2.2 Execute the following command on Terminal:
+1. Set the **name/path of input/output media files** in ```AudioExtractor.py``` (see comments for details).
+
+2. Execute the following command on Terminal.
 ```bash
 ~$ python AudioExtractor.py
 # or
@@ -64,6 +66,6 @@ $ brew install ffmpeg
 
 ## Motivation
 
-Only low resolution videos that downloaded from Youtube have audio. Add the related audio to high resolution videos leads to better watching experience.
+Only low resolution videos that downloaded from Youtube have audio. Adding audio to the related high resolution video leads to better watching experience.
 
-<i>Last updated: 11/02/2019</i>
+<i>Last updated: 12/02/2019</i>
