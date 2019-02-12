@@ -4,7 +4,7 @@ This is a **Python** implementation of video and audio processing by using **ffm
 
 ### Functions
 
-- Extact audio from video.
+- Extract audio from video.
 
 - Remove audio from video.
 
@@ -44,7 +44,7 @@ $ brew install ffmpeg
 
 1. Set the **name/path of input/output media files** in ```VideoAudioProcessing.py``` (see comments for details).
 
-2. Execute the following commnd on Terminal.
+2. Execute the following command on Terminal.
 ```bash
 ~$ python VideoAudioProcessing.py
 # or
@@ -66,6 +66,6 @@ $ brew install ffmpeg
 
 ## Motivation
 
-Only low resolution videos that downloaded from Youtube have audio. Adding audio to the related high resolution video leads to better watching experience.
+Only low resolution videos that downloaded from YouTube have audio. Adding audio to the related high resolution video leads to better watching experience.
 
 <i>Last updated: 12/02/2019</i>
