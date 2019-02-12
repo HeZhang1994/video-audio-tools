@@ -16,7 +16,7 @@ This is a **Python** implementation of extracting/adding audio from/to video and
 
 ## Environment
 
-This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems (OSs).
+The code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems (OSs).
 
 ## Language
 
