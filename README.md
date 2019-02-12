@@ -14,7 +14,7 @@ This is a **Python** implementation of video and audio processing by using **ffm
 
 ## Environment
 
-This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems.
+This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems (OSs).
 
 ## Language
 
@@ -24,12 +24,12 @@ This code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** 
 
 * __ffmpeg__
 
-Execute the following command to install **ffmpeg** on **Ubuntu**:
+For **Ubuntu** OS, execute the following command to install **ffmpeg**:
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-Execute the following commands to install **ffmpeg** on **MacOS**:
+For  **MacOS** OS, execute the following commands to install **ffmpeg**:
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -38,7 +38,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 $ brew install ffmpeg
 ```
 
-## Running
+## Usage
 
 ### To process audio and video
 1.1 Set the **name/path of input/output files** in ```VideoAudioProcessing.py``` (see comments for details);
