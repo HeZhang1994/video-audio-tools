@@ -1,16 +1,16 @@
 # Video and Audio Processing
 
-This is the **Python** implementation of video and audio processing by using **ffmpeg** library.
+This is a **Python** implementation of video and audio processing by using **ffmpeg**.
 
-### Functions:
+### Functions
 
-1. Extact audio from video.
+- Extact audio from video.
 
-2. Remove audio from video.
+- Remove audio from video.
 
-3. Add audio to video which contains no sound.
+- Add audio to video which (must?) contains no sound.
 
-4. Convert audio format (e.g., **.m4a** <-> **.wav** <-> **.mp3**).
+- Convert audio formats (e.g., **.m4a** <-> **.wav** <-> **.mp3**).
 
 ## Environment
 
