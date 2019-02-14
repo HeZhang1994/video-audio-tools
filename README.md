@@ -1,6 +1,6 @@
 # Video and Audio Processing
 
-This is a **Python** implementation of extracting/adding audio from/to video and converting audio formats by using **ffmpeg**.
+This is a **Python** implementation for extracting/adding audio from/to video and converting audio formats by using **ffmpeg**.
 
 ### Functions
 
