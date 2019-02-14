@@ -1,7 +1,7 @@
 ## Task description:
 ## Extract audio from low resolution video,
 ## and add audio to high resolution video.
-## If high resoulution video has audio, remove it.
+## If high resoulution video has audio, remove it before adding audio.
 
 import subprocess
 
