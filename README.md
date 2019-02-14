@@ -52,15 +52,15 @@ $ brew install ffmpeg
 # if both py2 and py3 exist on your operating system.
 ```
 
-### To extract audio or convert audio format
+### To convert audio formats
 
-1. Set the **name/path of input/output media files** in ```AudioExtractor.py``` (see comments for details).
+1. Set the **name/path of input/output media files** in ```AudioConverter.py``` (see comments for details).
 
 2. Execute the following command in Terminal.
 ```bash
-~$ python AudioExtractor.py
+~$ python AudioConverter.py
 # or
-~$ python3 AudioExtractor.py
+~$ python3 AudioConverter.py
 # if both py2 and py3 exist on your operating system.
 ```
 
