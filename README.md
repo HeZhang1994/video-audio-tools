@@ -74,4 +74,5 @@ Only low resolution videos that downloaded from YouTube have audio. Adding audio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 14/02/2019</i>
+<i>Last updated: 15/02/2019</i>
+
