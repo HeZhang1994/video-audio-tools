@@ -1,7 +1,6 @@
 # Video and Audio Processing
 
 [![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
-[![image](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey.svg)]()
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 
 This is a **Python** implementation for extracting/adding audio from/to video and converting audio formats with **ffmpeg**.
