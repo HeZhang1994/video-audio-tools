@@ -1,5 +1,9 @@
 # Video and Audio Processing
 
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
+
 This is a **Python** implementation for extracting/adding audio from/to video and converting audio formats with **ffmpeg**.
 
 ### Functions
@@ -11,14 +15,6 @@ This is a **Python** implementation for extracting/adding audio from/to video an
 - Add audio to video which (must?) contains no sound.
 
 - Convert audio formats (e.g., **.m4a** <-> **.wav** <-> **.mp3**).
-
-## Environment
-
-The code has been tested on **Ubuntu 16.04** and **MacOS High Sierra 10.13.6** operating systems (OSs).
-
-## Language
-
-* __Python 3.7 (3.0+)__
 
 ## Dependency
 
@@ -74,5 +70,5 @@ Only low resolution videos that downloaded from YouTube have audio. Adding audio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 15/02/2019</i>
+<i>Last updated: 16/02/2019</i>
 
