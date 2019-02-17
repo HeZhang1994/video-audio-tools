@@ -2,6 +2,8 @@
 
 [![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
+[![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
+[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 This is a **Python** implementation for extracting/adding audio from/to video and converting audio formats with **ffmpeg**.
 
@@ -69,5 +71,5 @@ Only low resolution videos that downloaded from YouTube have audio. Adding audio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 16/02/2019</i>
+<i>Last updated: 17/02/2019</i>
 
