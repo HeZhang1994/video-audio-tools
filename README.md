@@ -57,5 +57,5 @@ Only low resolution video that downloaded from YouTube has audio. Adding extract
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 00/03/2019</i>
+<i>Last updated: 01/03/2019</i>
 
