@@ -5,28 +5,28 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation for extracting/adding audio from/to video and converting audio formats with **ffmpeg**.
+This is a **Python** implementation of processing video and audio with **ffmpeg** libraries.
 
-## Functions
+## Function
 
 - Extract audio from video.
 
 - Remove audio from video.
 
-- Add audio to video which (must?) contains no sound.
+- Add audio to video that contains no audio.
 
-- Convert audio formats (e.g., **.m4a** <-> **.wav** <-> **.mp3**).
+- Convert audio formats (e.g., .wav, .mp3, etc.).
 
 ## Dependency
 
 * __ffmpeg__
 
-For **Ubuntu** OS, execute the following command in Terminal to install **ffmpeg**.
+For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-For  **MacOS** OS, execute the following commands in Terminal to install **ffmpeg**.
+For **Mac** system, install **ffmpeg** by executing the following commands in Terminal.
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -37,33 +37,19 @@ $ brew install ffmpeg
 
 ## Usage
 
-### To process audio and video (extract/add audio from/to video)
+Set the name/path of input and output media files in the code (see comments for details).
 
-1. Set the **name/path of input/output media files** in ```VideoAudioProcessing.py``` (see code comments for details).
+- To extract audio from video, run ```VAP_extract.py```.
 
-2. Execute the following command in Terminal.
-```bash
-~$ python VideoAudioProcessing.py
-# or
-~$ python3 VideoAudioProcessing.py
-# if both py2 and py3 exist on your operating system.
-```
+- To remove audio from video, run ```VAP_remove.py```.
 
-### To convert audio formats
+- To add audio to video, run ```VAP_add.py```.
 
-1. Set the **name/path of input/output media files** in ```AudioConverter.py``` (see code comments for details).
-
-2. Execute the following command in Terminal.
-```bash
-~$ python AudioConverter.py
-# or
-~$ python3 AudioConverter.py
-# if both py2 and py3 exist on your operating system.
-```
+- To convert audio formats, run ```VAP_convert.py```.
 
 ## Motivation
 
-Only low resolution videos that downloaded from YouTube have audio. Adding audio to the related high resolution video leads to better watching experience.
+Only low resolution video that downloaded from YouTube has audio. Adding extracted audio to the corresponding high resolution video leads to better watching experience.
 
 <br>
 
@@ -71,5 +57,5 @@ Only low resolution videos that downloaded from YouTube have audio. Adding audio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 23/02/2019</i>
+<i>Last updated: 00/03/2019</i>
 
