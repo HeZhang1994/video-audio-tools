@@ -9,13 +9,13 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Function
 
-- Extract audio from video.
+- Extracting audio from video.
 
-- Remove audio from video.
+- Removing audio from video.
 
-- Add audio to video that contains no audio.
+- Adding audio to video that contains no audio.
 
-- Convert audio formats (e.g., .wav, .mp3, etc.).
+- Converting audio formats (e.g., .wav, .mp3, etc.).
 
 ## Dependency
 
@@ -46,10 +46,6 @@ Set the name/path of input and output media files in the code (see comments for 
 - To add audio to video, run ```VAP_add.py```.
 
 - To convert audio formats, run ```VAP_convert.py```.
-
-## Motivation
-
-Only low resolution video that downloaded from YouTube has audio. Adding extracted audio to the corresponding high resolution video leads to better watching experience.
 
 <br>
 
