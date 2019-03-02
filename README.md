@@ -19,7 +19,9 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Dependency
 
-* __ffmpeg__
+* __pathlib (2.3.3)__
+
+* __ffmpeg (2.8.15)__
 
 For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
 ```bash
