@@ -7,7 +7,7 @@
 
 This is a **Python** implementation of processing video and audio with **ffmpeg** libraries.
 
-## Function
+## Functions
 
 - Extracting audio from video.
 
@@ -17,7 +17,7 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 - Converting audio formats (e.g., .wav and .mp3).
 
-## Dependency
+## Dependencies
 
 * __pathlib__ (2.3.3)
 * __ffmpeg__ (2.8.15)
