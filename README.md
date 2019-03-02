@@ -15,7 +15,7 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 - Adding audio to video that contains no audio.
 
-- Converting audio formats (e.g., .wav, .mp3, etc.).
+- Converting audio formats (e.g., .wav and .mp3).
 
 ## Dependency
 
