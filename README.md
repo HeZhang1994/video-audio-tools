@@ -9,7 +9,7 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Function
 
-- Extracting audio from video.
+- Extracting audio from vide.
 
 - Removing audio from video.
 
