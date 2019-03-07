@@ -19,7 +19,7 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Dependencies
 
-~~* __pathlib 2.3.3__~~
+* ~~__pathlib 2.3.3__~~
 * __ffmpeg 2.8.15__
 
 For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
