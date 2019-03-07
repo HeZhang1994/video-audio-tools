@@ -19,7 +19,7 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Dependencies
 
-* __pathlib 2.3.3__
+~~* __pathlib 2.3.3__~~
 * __ffmpeg 2.8.15__
 
 For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
@@ -40,13 +40,13 @@ $ brew install ffmpeg
 
 Set the name/path of input and output media files in the code (see comments for details).
 
-- To extract audio from video, run ```VAP_extract.py```.
+- To extract audio from video, run ```run_VAP_extract.py```.
 
-- To remove audio from video, run ```VAP_remove.py```.
+- To remove audio from video, run ```run_VAP_remove.py```.
 
-- To add audio to video, run ```VAP_add.py```.
+- To add audio to video, run ```run_VAP_add.py```.
 
-- To convert audio formats, run ```VAP_convert.py```.
+- To convert audio formats, run ```run_VAP_convert.py```.
 
 <br>
 
@@ -54,5 +54,5 @@ Set the name/path of input and output media files in the code (see comments for 
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 03/03/2019</i>
+<i>Last updated: 07/03/2019</i>
 
