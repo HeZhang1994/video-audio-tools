@@ -19,7 +19,6 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Dependencies
 
-* ~~__pathlib 2.3.3__~~
 * __ffmpeg 2.8.15__
 
 For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
@@ -54,5 +53,5 @@ Set the name/path of input and output media files in the code (see comments for 
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 07/03/2019</i>
+<i>Last updated: 12/03/2019</i>
 
