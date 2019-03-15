@@ -53,5 +53,5 @@ Set the name/path of input and output media files in the code (see comments for 
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 12/03/2019</i>
+<i>Last updated: 15/03/2019</i>
 
