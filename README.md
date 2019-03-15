@@ -9,13 +9,13 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 ## Functions
 
-- Extracting audio from video.
+- **Extracting** audio from video.
 
-- Removing audio from video.
+- **Adding** audio to video that contains no audio.
 
-- Adding audio to video that contains no audio.
+- **Removing** audio from video that contains audio.
 
-- Converting audio formats (e.g., .wav and .mp3).
+- **Converting** audio formats (e.g., .wav <-> .mp3).
 
 ## Dependencies
 
@@ -37,7 +37,7 @@ $ brew install ffmpeg
 
 ## Usage
 
-Set the name/path of input and output media files in the code (see comments for details).
+Set the path of input and output media files (see code comments for details).
 
 - To extract audio from video, run ```run_VAP_extract.py```.
 
