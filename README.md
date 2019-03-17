@@ -37,15 +37,15 @@ $ brew install ffmpeg
 
 ## Usage
 
-Set the path/name of input and output media files (e.g., ```INPUT_VIDEO```, ```INPUT_AUDIO```, and ```OUTPUT_FILE```) in the code.
+Set the path/name of input and output media files (e.g., `INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
 
-- To **extract** audio from video, run ```run_VAP_extract.py```.
+- To **extract** audio from video, run `run_VAP_extract.py`.
 
-- To **add** audio to video, run ```run_VAP_add.py```.
+- To **add** audio to video, run `run_VAP_add.py`.
 
-- To **remove** audio from video, run ```run_VAP_remove.py```.
+- To **remove** audio from video, run `run_VAP_remove.py`.
 
-- To **convert** audio formats, run ```run_VAP_convert.py```.
+- To **convert** audio formats, run `run_VAP_convert.py`.
 
 <br>
 
