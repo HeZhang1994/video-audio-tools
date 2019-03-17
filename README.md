@@ -11,9 +11,9 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 - **Extracting** audio from video.
 
-- **Removing** audio from video that contains audio.
-
 - **Adding** audio to video that contains no audio.
+
+- **Removing** audio from video that contains audio.
 
 - **Converting** audio formats (e.g., .wav <-> .mp3).
 
@@ -41,9 +41,9 @@ Set the path/name of input and output media files (e.g., ```INPUT_VIDEO```, ```I
 
 - To **extract** audio from video, run ```run_VAP_extract.py```.
 
-- To **remove** audio from video, run ```run_VAP_remove.py```.
-
 - To **add** audio to video, run ```run_VAP_add.py```.
+
+- To **remove** audio from video, run ```run_VAP_remove.py```.
 
 - To **convert** audio formats, run ```run_VAP_convert.py```.
 
