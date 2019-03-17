@@ -11,9 +11,9 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 - **Extracting** audio from video.
 
-- **Adding** audio to video that contains no audio.
-
 - **Removing** audio from video that contains audio.
+
+- **Adding** audio to video that contains no audio.
 
 - **Converting** audio formats (e.g., .wav <-> .mp3).
 
@@ -53,5 +53,5 @@ Set the path/name of input and output media files (e.g., ```INPUT_VIDEO```, ```I
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 16/03/2019</i>
+<i>Last updated: 17/03/2019</i>
 
