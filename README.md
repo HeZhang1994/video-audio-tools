@@ -55,4 +55,4 @@ Set the path/name of input and output media files (e.g., `INPUT_VIDEO`, `INPUT_A
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 17/03/2019</i>
+<i>Last updated: 18/03/2019</i>
