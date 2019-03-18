@@ -13,11 +13,11 @@ Many thanks to the contributors of [FFmpeg](https://www.ffmpeg.org/).
 
 - **Extracting** audio from video.
 
-- **Adding** audio to video that contains no audio.
+- **Adding** audio to the video that contains no audio.
 
-- **Removing** audio from video that contains audio.
+- **Removing** audio from the video that contains audio.
 
-- **Converting** audio formats (e.g., .wav <-> .mp3).
+- **Converting** audio formats (e.g., WAV <-> MP3).
 
 ## Dependencies
 
@@ -39,7 +39,7 @@ $ brew install ffmpeg
 
 ## Usage
 
-Set the path/name of input and output media files (e.g., `INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
+Set the path/name of input and output media files (`INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
 
 - To **extract** audio from video, run `run_VAP_extract.py`.
 
