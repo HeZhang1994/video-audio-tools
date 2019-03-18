@@ -5,7 +5,9 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of processing video and audio with **ffmpeg** libraries.
+This is a **Python** implementation of processing video and audio with **FFmpeg** libraries.
+
+Thanks a lot for the contributors of [FFmpeg](https://www.ffmpeg.org/).
 
 ## Functions
 
@@ -21,12 +23,12 @@ This is a **Python** implementation of processing video and audio with **ffmpeg*
 
 * __ffmpeg 2.8.15__
 
-For **Linux** system, install **ffmpeg** by executing the following command in Terminal.
+For **Linux** system, install **FFmpeg** by executing the following command in Terminal.
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-For **Mac** system, install **ffmpeg** by executing the following commands in Terminal.
+For **Mac** system, install **FFmpeg** by executing the following commands in Terminal.
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -49,8 +51,8 @@ Set the path/name of input and output media files (e.g., `INPUT_VIDEO`, `INPUT_A
 
 <br>
 
-<i>Please star this repository if you found its content useful. Thank you very much.</i>
+<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
+<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 17/03/2019</i>
+<i>Last updated: 18/03/2019</i>
