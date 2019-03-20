@@ -7,7 +7,7 @@
 
 This is a **Python** implementation of processing video and audio with **FFmpeg** libraries.
 
-Many thanks to the contributors of [FFmpeg](https://www.ffmpeg.org/).
+Many thanks to the contributors of FFmpeg. For more usage of processing video and audio, please visit [FFmpeg](https://www.ffmpeg.org/).
 
 ## Functions
 
@@ -23,12 +23,12 @@ Many thanks to the contributors of [FFmpeg](https://www.ffmpeg.org/).
 
 * __ffmpeg 2.8.15__
 
-For **Linux** system, install **FFmpeg** by executing the following command in Terminal.
+Install **FFmpeg** on **Linux** system.
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-For **Mac** system, install **FFmpeg** by executing the following commands in Terminal.
+Install **FFmpeg** on **Mac** system.
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -39,7 +39,7 @@ $ brew install ffmpeg
 
 ## Usage
 
-Set the path/name of input and output media files (`INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
+Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
 
 - To **extract** audio from video, run `run_VAP_extract.py`.
 
@@ -55,4 +55,4 @@ Set the path/name of input and output media files (`INPUT_VIDEO`, `INPUT_AUDIO`,
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 18/03/2019</i>
+<i>Last updated: 20/03/2019</i>
