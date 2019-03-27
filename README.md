@@ -55,4 +55,4 @@ Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, a
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 20/03/2019</i>
+<i>Last updated: 27/03/2019</i>
