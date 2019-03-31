@@ -1,6 +1,6 @@
 # Video and Audio Processing
 
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-processing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -55,4 +55,4 @@ Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, a
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 27/03/2019</i>
+<i>Last updated: 31/03/2019</i>
