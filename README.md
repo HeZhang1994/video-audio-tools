@@ -33,7 +33,7 @@ $ sudo apt-get install ffmpeg
 
 * Upgrade
 ```bash
-# The latest version is 4.1.x (11th April, 2019).
+# The latest version of FFmpeg is 4.1.x (11th April, 2019).
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 
 $ sudo apt update && sudo apt upgrade
@@ -42,16 +42,17 @@ $ sudo apt update && sudo apt upgrade
 ### FFmpeg for Mac system
 * Installation
 ```bash
-# Install homebrew:
+# Install homebrew.
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# Install ffmpeg via homebrew:
+# Install FFmpeg via homebrew.
 $ brew install ffmpeg
 ```
 
 * Upgrade
 ```bash
-brew update && brew upgrade ffmpeg
+# Upgrade FFmpeg via homebrew.
+$ brew update && brew upgrade ffmpeg
 ```
 
 ## Usage
