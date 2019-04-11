@@ -61,7 +61,7 @@ $ brew update && brew upgrade ffmpeg
 
 ## Usage
 
-Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, and `OUTPUT_FILE`) in the code.
+Specify the path/name of input and output media in the code (see comments).
 
 - To **extract** the audio from a video, run `run_VAP_extract.py`.
 
