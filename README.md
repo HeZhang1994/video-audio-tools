@@ -21,16 +21,26 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 ## Dependencies
 
-* __ffmpeg 2.8.15__ for Linux
+* __ffmpeg 4.1.1__ for Linux
 
-* __ffmpeg 4.1__ for Mac
+* __ffmpeg 4.1.3__ for Mac
 
-Install **FFmpeg** on **Linux** system.
+### FFmpeg for Linux system
+* Installation
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-Install **FFmpeg** on **Mac** system.
+* Upgrade
+```bash
+# The latest version is 4.1.x.
+$ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
+
+$ sudo apt update && sudo apt upgrade
+```
+
+### FFmpeg for Mac system
+1. Installation
 ```bash
 # Install homebrew:
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
