@@ -1,13 +1,13 @@
-# Video and Audio Processing
+# Video and Audio Editing
 
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-processing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of processing video and audio with **FFmpeg** libraries.
+This is a **Python** implementation of editing video and audio with **FFmpeg** libraries.
 
-Many thanks to the contributors of FFmpeg. See more information of video and audio processing on [FFmpeg](https://www.ffmpeg.org/).
+Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
 
 ## Functions
 
@@ -19,13 +19,17 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 - **Converting** the format of audio (e.g., WAV <-> MP3).
 
+- Cut video
+
+- Merge video
+
 ## Dependencies
 
 * __ffmpeg 4.1.1__ for Linux
 
 * __ffmpeg 4.1.3__ for Mac
 
-### FFmpeg for Linux
+### Install/Upgrade FFmpeg on Linux
 
 * Installation
 ```bash
@@ -39,7 +43,7 @@ $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
-### FFmpeg for Mac
+### Install/Upgrade FFmpeg on Mac
 
 * Installation
 ```bash
@@ -66,6 +70,10 @@ Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, a
 - To **remove** the audio from a video, run `run_VAP_remove.py`.
 
 - To **convert** the format of audio, run `run_VAP_convert.py`.
+
+- To cut video.
+
+- To merge video.
 
 <br>
 
