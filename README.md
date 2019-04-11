@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of editing video and audio with **FFmpeg** libraries.
+This is a **Python** implementation of editing/processing video and audio with **FFmpeg** libraries.
 
 Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
 
