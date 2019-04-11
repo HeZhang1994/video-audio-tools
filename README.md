@@ -19,9 +19,9 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 - **Converting** the format of audio (e.g., WAV <-> MP3).
 
-- [New] **Cutting** video/audio into clips.
+- **[New]** **Cutting** video/audio into clips.
 
-- [New] **Merging** video/audio clips to a new video/audio.
+- **[New]** **Merging** video/audio clips to a new video/audio.
 
 ## Dependencies
 
@@ -71,9 +71,9 @@ Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, a
 
 - To **convert** the format of audio, run `run_VAP_convert.py`.
 
-- [New] To **cut** video/audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
+- **[New]** To **cut** video/audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
 
-- [New] To **merge** video/audio clips to a new video/audio, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
+- **[New]** To **merge** video/audio clips to a new video/audio, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
 
 <br>
 
