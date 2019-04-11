@@ -5,9 +5,19 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of editing/processing video and audio with **FFmpeg** libraries.
+This is a **Python** implementation of processing/editing video and audio with **FFmpeg** libraries.
 
 Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
+
+## Table of Contents
+
+- [Functions](#functions)
+- [Dependencies](#dependencies)
+  - [FFmpeg for Linux](#ffmpeg-for-linux)
+  - [FFmpeg for Mac](#ffmpeg-for-mac)
+- [Usage](#usage)
+  - [Video and Audio Processing](#video-and-audio-processing)
+  - [Video and Audio Editing](#video-and-audio-editing)
 
 ## Functions
 
@@ -29,7 +39,7 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 * __ffmpeg 4.1.3__ for Mac
 
-### Install/Upgrade FFmpeg on Linux
+### FFmpeg for Linux
 
 * Installation
 ```bash
@@ -43,7 +53,7 @@ $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
-### Install/Upgrade FFmpeg on Mac
+### FFmpeg for Mac
 
 * Installation
 ```bash
@@ -63,6 +73,8 @@ $ brew update && brew upgrade ffmpeg
 
 Specify the path/name of input and output media in the code (see comments).
 
+### Video and Audio Processing
+
 - To **extract** the audio from a video, run `run_VAP_extract.py`.
 
 - To **add** the audio to a video, run `run_VAP_add.py`.
@@ -70,6 +82,8 @@ Specify the path/name of input and output media in the code (see comments).
 - To **remove** the audio from a video, run `run_VAP_remove.py`.
 
 - To **convert** the format of audio, run `run_VAP_convert.py`.
+
+### Video and Audio Editing
 
 - **[New]** To **cut** video/audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
 
