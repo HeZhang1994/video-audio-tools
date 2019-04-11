@@ -21,7 +21,9 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 ## Dependencies
 
-* __ffmpeg 2.8.15__
+* __ffmpeg 2.8.15__ for Linux
+
+* __ffmpeg 4.1__ for Mac
 
 Install **FFmpeg** on **Linux** system.
 ```bash
@@ -55,4 +57,4 @@ Specify the path/name of input and output media (`INPUT_VIDEO`, `INPUT_AUDIO`, a
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 31/03/2019</i>
+<i>Last updated: 11/04/2019</i>
