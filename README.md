@@ -1,4 +1,4 @@
-# Video and Audio Editing
+# Video and Audio Process/Editing
 
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-processing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
