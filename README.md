@@ -36,7 +36,7 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 $ sudo apt-get install ffmpeg
 ```
 
-* Upgrade
+* Upgrade (if applicable)
 ```bash
 # The latest version of FFmpeg is 4.x.x (11th April, 2019).
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
@@ -53,7 +53,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 $ brew install ffmpeg
 ```
 
-* Upgrade
+* Upgrade (if applicable)
 ```bash
 # Upgrade FFmpeg to the latest version via homebrew.
 $ brew update && brew upgrade ffmpeg
