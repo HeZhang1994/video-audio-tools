@@ -26,6 +26,7 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 * __ffmpeg 4.1.3__ for Mac
 
 ### FFmpeg for Linux
+
 * Installation
 ```bash
 $ sudo apt-get install ffmpeg
@@ -33,24 +34,24 @@ $ sudo apt-get install ffmpeg
 
 * Upgrade
 ```bash
-# The latest version of FFmpeg is 4.1.x (11th April, 2019).
+# The latest version of FFmpeg is 4.x.x (11th April, 2019).
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
 ### FFmpeg for Mac
+
 * Installation
 ```bash
 # Install homebrew.
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 # Install FFmpeg via homebrew.
 $ brew install ffmpeg
 ```
 
 * Upgrade
 ```bash
-# Upgrade FFmpeg via homebrew.
+# Upgrade FFmpeg to the latest version via homebrew.
 $ brew update && brew upgrade ffmpeg
 ```
 
