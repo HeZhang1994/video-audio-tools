@@ -1,11 +1,11 @@
-# Video and Audio Processing/Editing
+# Video and Audio Editing
 
-[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-processing/blob/master/LICENSE)
+[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-editing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of processing/editing video and audio with **FFmpeg** libraries.
+This is a **Python** implementation of editing video and audio with **FFmpeg** libraries.
 
 Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
 
@@ -95,4 +95,4 @@ Specify the path/name of input and output media in the code (see comments).
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 12/04/2019</i>
+<i>Last updated: 13/04/2019</i>
