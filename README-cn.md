@@ -1,25 +1,25 @@
-# 视频音频编辑
+# 视频和音频剪辑
 
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-editing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-基于PythonThis is a **Python** implementation of editing video and audio with **FFmpeg** libraries.
+基于**Python**和**FFmpeg**实现的视频和音频剪辑。
 
-Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
+特别鸣谢FFmpeg开源软件及其贡献者。关于更多视频和音频剪辑内容，请参考[FFmpeg官网](https://www.ffmpeg.org/).
 
-## Table of Contents
+## 目录
 
-- [Functions](#functions)
-- [Dependencies](#dependencies)
-  - [FFmpeg for Linux](#ffmpeg-for-linux)
-  - [FFmpeg for Mac](#ffmpeg-for-mac)
-- [Usage](#usage)
-  - [Video and Audio Processing](#video-and-audio-processing)
-  - [Video and Audio Editing](#video-and-audio-editing)
+- [功能](#功能)
+- [依赖](#依赖)
+  - [基于Linux的FFmpeg](#基于Linux的FFmpeg)
+  - [基于Mac的FFmpeg](#基于Mac的FFmpeg)
+- [使用](#使用)
+  - [视频和音频处理](#video-and-audio-processing)
+  - [视频和音频剪辑](#video-and-audio-editing)
 
-## Functions
+## 功能
 
 - **Extracting** the audio from a video.
 
@@ -33,7 +33,7 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 - **[New]** **Merging** video/audio clips.
 
-## Dependencies
+## 依赖
 
 * __ffmpeg 4.1.1__ for Linux
 
