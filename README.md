@@ -1,11 +1,11 @@
-# Video and Audio Editing
+# Video and Audio Processing/Editing
 
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-editing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of editing video and audio with **FFmpeg** libraries.
+This is a **Python** implementation of processing/editing video and audio with **FFmpeg** libraries.
 
 Many thanks to the contributors of FFmpeg. See more information of video and audio editing on [FFmpeg](https://www.ffmpeg.org/).
 
