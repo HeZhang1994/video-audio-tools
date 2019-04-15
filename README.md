@@ -7,7 +7,7 @@
 
 This is a **Python** implementation of processing/editing video and audio with **FFmpeg** libraries.
 
-Many thanks to the contributors of FFmpeg. For more about video and audio processing/editing, please visit [FFmpeg](https://www.ffmpeg.org/).
+Many thanks to the contributors of FFmpeg. For more related information, please visit [FFmpeg](https://www.ffmpeg.org/).
 
 ## Table of Contents
 
