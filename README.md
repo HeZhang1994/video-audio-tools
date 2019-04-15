@@ -13,8 +13,8 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 - [Functions](#functions)
 - [Dependencies](#dependencies)
-  - [FFmpeg for Linux](#ffmpeg-for-linux)
-  - [FFmpeg for Mac](#ffmpeg-for-mac)
+  - [Install FFmpeg for Linux](#install-ffmpeg-for-linux)
+  - [Install FFmpeg for Mac](#install-ffmpeg-for-mac)
 - [Usage](#usage)
   - [Video and Audio Processing](#video-and-audio-processing)
   - [Video and Audio Editing](#video-and-audio-editing)
@@ -39,7 +39,7 @@ Many thanks to the contributors of FFmpeg. See more information of video and aud
 
 * __ffmpeg 4.1.3__ for Mac
 
-### FFmpeg for Linux
+### Install FFmpeg for Linux
 
 * Installation
 ```bash
@@ -53,7 +53,7 @@ $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
-### FFmpeg for Mac
+### Install FFmpeg for Mac
 
 * Installation
 ```bash
