@@ -7,7 +7,7 @@
 
 [*English Version*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README-cn.md)
 
-基于**Python**和**FFmpeg库**实现的视频和音频处理/剪辑。
+基于**Python**和**FFmpeg**实现的视频和音频处理/剪辑。
 
 特别鸣谢FFmpeg开源库及其贡献者。关于更多内容，请访问[FFmpeg官网](https://www.ffmpeg.org/).
 
