@@ -91,7 +91,6 @@ $ brew update && brew upgrade ffmpeg
 
 - **【新】** 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
 
-
 <br>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
