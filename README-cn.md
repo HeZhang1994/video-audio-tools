@@ -71,28 +71,27 @@ $ brew update && brew upgrade ffmpeg
 
 ## 使用
 
-Specify the path/name of input and output media in the code (see comments).
+参考程序注释，设置输入和输出的媒体文件名或路径。
 
-### Video and Audio Processing
+### 视频和音频处理
 
-- To **extract** the audio from a video, run `run_VAP_extract.py`.
+- 运行`run_VAP_extract.py`，**提取**视频中的音频。
 
-- To **add** the audio to a video, run `run_VAP_add.py`.
+- 运行`run_VAP_add.py`，**添加**音频到不含音频的视频。
 
-- To **remove** the audio from a video, run `run_VAP_remove.py`.
+- 运行`run_VAP_remove.py`，**删除**视频中的音频。
 
-- To **convert** the format of audio, run `run_VAP_convert.py`.
+- 运行`run_VAP_convert.py`，**转换**音频的格式。
 
-### Video and Audio Editing
+### 视频和音频剪辑
 
-- **[New]** To **cut** video/audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
+- **【新】** 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
 
-- **[New]** To **merge** video/audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
+- **【新】** 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
+
 
 <br>
 
-<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
-
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 13/04/2019</i>
+<i>最后更新：15/04/2019</i>
