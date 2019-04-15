@@ -89,10 +89,9 @@ Specify the path/name of input and output media in the code (see comments).
 
 - **[New]** To **merge** video/audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
 
+
 <br>
 
 <i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
-
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
 <i>Last updated: 15/04/2019</i>
