@@ -13,63 +13,63 @@
 
 - [功能](#功能)
 - [依赖](#依赖)
-  - [基于Linux的FFmpeg](#基于Linux的FFmpeg)
-  - [基于Mac的FFmpeg](#基于Mac的FFmpeg)
+  - [安装基于Linux的FFmpeg](#安装基于linux的ffmpeg)
+  - [安装基于Mac的FFmpeg](#安装基于mac的ffmpeg)
 - [使用](#使用)
   - [视频和音频处理](#video-and-audio-processing)
   - [视频和音频剪辑](#video-and-audio-editing)
 
 ## 功能
 
-- **Extracting** the audio from a video.
+- **提取**视频中的音频。
 
-- **Adding** the audio to a video that contains no audio.
+- **添加**音频到不含音频的视频。
 
-- **Removing** the audio from a video that contains audio.
+- **删除**视频中的音频。
 
-- **Converting** the format of audio (e.g., WAV <-> MP3).
+- **转换**音频的格式。
 
-- **[New]** **Cutting** video/audio into clips.
+- **【新】** **剪切**视频或音频为片段。
 
-- **[New]** **Merging** video/audio clips.
+- **【新】** **拼接**视频或音频的片段。
 
 ## 依赖
 
-* __ffmpeg 4.1.1__ for Linux
+* __ffmpeg 4.1.1__ 针对Linux系统
 
-* __ffmpeg 4.1.3__ for Mac
+* __ffmpeg 4.1.3__ 针对Mac系统
 
-### FFmpeg for Linux
+### 安装基于Linux的FFmpeg
 
-* Installation
+* 安装
 ```bash
 $ sudo apt-get install ffmpeg
 ```
 
-* Upgrade (if applicable)
+* 更新（如果适用）
 ```bash
-# The latest version of FFmpeg is 4.x.x (11th April, 2019).
+# 截止2019年4月11日，FFmpeg的最新版本为4.x.x。
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
-### FFmpeg for Mac
+### 安装基于Mac的FFmpeg
 
-* Installation
+* 安装
 ```bash
-# Install homebrew.
+# 安装homebrew。
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-# Install FFmpeg via homebrew.
+# 通过homebrew安装FFmpeg。
 $ brew install ffmpeg
 ```
 
-* Upgrade (if applicable)
+* 更新（如果适用）
 ```bash
-# Upgrade FFmpeg to the latest version via homebrew.
+# 通过homebrew更新FFmpeg。
 $ brew update && brew upgrade ffmpeg
 ```
 
-## Usage
+## 使用
 
 Specify the path/name of input and output media in the code (see comments).
 
