@@ -17,7 +17,7 @@
 - [依赖项](#依赖项)
   - [安装基于Linux的FFmpeg](#安装基于linux的ffmpeg)
   - [安装基于Mac的FFmpeg](#安装基于mac的ffmpeg)
-- [使用](#使用)
+- [使用方法](#使用方法)
   - [视频和音频处理](#video-and-audio-processing)
   - [视频和音频剪辑](#video-and-audio-editing)
 
@@ -71,9 +71,9 @@ $ brew install ffmpeg
 $ brew update && brew upgrade ffmpeg
 ```
 
-## 使用
+## 使用方法
 
-参考程序注释，设置输入和输出的媒体文件名或路径。
+参考程序注释，设置输入/输出视频和音频的文件名或路径。
 
 ### 视频和音频处理
 
