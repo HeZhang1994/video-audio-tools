@@ -94,5 +94,3 @@ Specify the path/name of input and output media in the code (see comments).
 <br>
 
 <i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
-
-<i>Last updated: 15/04/2019</i>
