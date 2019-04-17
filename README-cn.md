@@ -15,11 +15,11 @@
 
 - [功能](#功能)
 - [依赖项](#依赖项)
-  - [安装基于Linux的FFmpeg](#安装基于linux的ffmpeg)
-  - [安装基于Mac的FFmpeg](#安装基于mac的ffmpeg)
+  - [安装Linux版本的FFmpeg](#安装linux版本的ffmpeg)
+  - [安装Mac版本的FFmpeg](#安装mac版本的ffmpeg)
 - [使用方法](#使用方法)
-  - [视频和音频处理](#video-and-audio-processing)
-  - [视频和音频剪辑](#video-and-audio-editing)
+  - [视频和音频处理](#视频和音频处理)
+  - [视频和音频剪辑](#视频和音频剪辑)
 
 ## 功能
 
@@ -31,9 +31,9 @@
 
 - **转换**音频的格式。
 
-- **【新】** **剪切**视频或音频为片段。
+- [**新!**] **剪切**视频或音频为片段。
 
-- **【新】** **拼接**视频或音频的片段。
+- [**新!**] **拼接**视频或音频的片段。
 
 ## 依赖项
 
@@ -87,9 +87,9 @@ $ brew update && brew upgrade ffmpeg
 
 ### 视频和音频剪辑
 
-- **【新】** 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
+- [**新!**] 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
 
-- **【新】** 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
+- [**新!**] 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
 
 <br>
 
