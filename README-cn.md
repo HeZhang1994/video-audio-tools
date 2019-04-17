@@ -49,7 +49,7 @@ $ sudo apt-get install ffmpeg
 
 * 更新（如果适用）
 ```bash
-# 截止2019年4月11日，FFmpeg的最新版本为4.x.x。
+# FFmpeg的最新版本为4.1.x（2019年4月11日）。
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
@@ -72,13 +72,13 @@ $ brew update && brew upgrade ffmpeg
 
 ## 使用方法
 
-参考程序注释，设置输入/输出视频和音频的文件名或路径。
+参考程序注释，设置输入和输出多媒体文件的文件名/路径。
 
 ### 视频和音频处理
 
 - 运行`run_VAP_extract.py`，**提取**视频中的音频。
 
-- 运行`run_VAP_add.py`，**添加**音频到不含音频的视频。
+- 运行`run_VAP_add.py`，**添加**音频到视频。
 
 - 运行`run_VAP_remove.py`，**删除**视频中的音频。
 
