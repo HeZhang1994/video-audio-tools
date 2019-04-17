@@ -9,7 +9,7 @@
 
 基于**Python**和**FFmpeg库**实现的视频和音频处理/剪辑。
 
-特别鸣谢FFmpeg的贡献者。关于更多内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
+特别鸣谢FFmpeg及其贡献者。关于更多内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
 
 ## 目录
 
