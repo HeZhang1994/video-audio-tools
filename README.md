@@ -49,7 +49,7 @@ $ sudo apt-get install ffmpeg
 
 * Upgrade (if applicable)
 ```bash
-# The latest version of FFmpeg is 4.x.x (11th April, 2019).
+# The latest version of FFmpeg is 4.1.x (11th April, 2019).
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
@@ -66,7 +66,7 @@ $ brew install ffmpeg
 
 * Upgrade (if applicable)
 ```bash
-# Upgrade FFmpeg to the latest version via homebrew.
+# Upgrade FFmpeg via homebrew.
 $ brew update && brew upgrade ffmpeg
 ```
 
@@ -86,9 +86,9 @@ Specify the path/name of input and output media in the code (see comments).
 
 ### Video and Audio Editing
 
-- [**New!**] To **cut** video/audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
+- [**New!**] To **cut** video or audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
 
-- [**New!**] To **merge** video/audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
+- [**New!**] To **merge** video or audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
 
 <br>
 
