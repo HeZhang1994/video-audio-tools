@@ -27,18 +27,17 @@ Many thanks to FFmpeg and its contributors. For more related information, please
 
 - **Adding** the audio to a video that contains no audio.
 
-- **Removing** the audio from a video that contains audio.
+- **Removing** the audio from a video.
 
-- **Converting** the format of audio (e.g., WAV <-> MP3).
+- **Converting** the format of audio.
 
-- [**New!**] **Cutting** video/audio into clips.
+- [**New!**] **Cutting** video or audio into clips.
 
-- [**New!**] **Merging** video/audio clips.
+- [**New!**] **Merging** video or audio clips.
 
 ## Dependencies
 
 * __ffmpeg 4.1.1__ for Linux
-
 * __ffmpeg 4.1.3__ for Mac
 
 ### Install FFmpeg for Linux
