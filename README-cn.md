@@ -7,9 +7,9 @@
 
 [*English Version*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README-cn.md)
 
-基于**Python**和**FFmpeg库**实现的视频和音频处理/剪辑。
+基于**Python**和**FFmpeg库**实现的处理/剪辑视频和音频。
 
-特别鸣谢FFmpeg及其贡献者。关于更多内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
+特别鸣谢FFmpeg及其贡献者。关于更多相关内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
 
 ## 目录
 
@@ -38,7 +38,6 @@
 ## 依赖项
 
 * __ffmpeg 4.1.1__ 针对Linux系统
-
 * __ffmpeg 4.1.3__ 针对Mac系统
 
 ### 安装Linux版本的FFmpeg
