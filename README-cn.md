@@ -7,9 +7,9 @@
 
 [*English Version*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README-cn.md)
 
-基于**Python**和**FFmpeg**实现的视频和音频处理/剪辑。
+基于**Python**和**FFmpeg库**实现的视频和音频处理/剪辑。
 
-特别鸣谢FFmpeg开源库及其贡献者。关于更多内容，请访问[FFmpeg官网](https://www.ffmpeg.org/)。
+特别鸣谢FFmpeg的贡献者。关于更多内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
 
 ## 目录
 
@@ -41,7 +41,7 @@
 
 * __ffmpeg 4.1.3__ 针对Mac系统
 
-### 安装基于Linux的FFmpeg
+### 安装Linux版本的FFmpeg
 
 * 安装
 ```bash
@@ -55,7 +55,7 @@ $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
 
-### 安装基于Mac的FFmpeg
+### 安装Mac版本的FFmpeg
 
 * 安装
 ```bash
@@ -94,5 +94,3 @@ $ brew update && brew upgrade ffmpeg
 <br>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
-
-<i>最后更新：15/04/2019</i>
