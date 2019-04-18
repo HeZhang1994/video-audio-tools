@@ -49,7 +49,7 @@ $ sudo apt-get install ffmpeg
 
 * 更新（如果适用）
 ```bash
-# FFmpeg的最新版本为4.1.x（2019年4月11）。
+# FFmpeg的最新版本为4.1.x（2019年4月11日）。
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
