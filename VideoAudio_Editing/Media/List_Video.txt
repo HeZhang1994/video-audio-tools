@@ -1,4 +1,0 @@
-file 'Clips_Video/Clip_1.mp4'
-file 'Clips_Video/Clip_2.mp4'
-file 'Clips_Video/Clip_3.mp4'
-file 'Clips_Video/Clip_4.mp4'
