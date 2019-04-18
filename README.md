@@ -76,6 +76,8 @@ Specify the path/name of input and output media in the code (see comments).
 
 ### Video and Audio Processing
 
+Use the code provided in `VideoAudio_Processing/`.
+
 - To **extract** the audio from a video, run `run_VAP_extract.py`.
 
 - To **add** the audio to a video, run `run_VAP_add.py`.
@@ -85,6 +87,8 @@ Specify the path/name of input and output media in the code (see comments).
 - To **convert** the format of audio, run `run_VAP_convert.py`.
 
 ### Video and Audio Editing
+
+Use the code provided in `VideoAudio_Editing/`.
 
 - [**New!**] To **cut** video or audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
 
