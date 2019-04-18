@@ -1,4 +1,0 @@
-file 'Clips_Audio/Clip_1.mp3'
-file 'Clips_Audio/Clip_2.mp3'
-file 'Clips_Audio/Clip_3.mp3'
-file 'Clips_Audio/Clip_4.mp3'
