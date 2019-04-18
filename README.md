@@ -49,7 +49,7 @@ $ sudo apt-get install ffmpeg
 
 * Upgrade (if applicable)
 ```bash
-# The latest version of FFmpeg is 4.1.x (11th April, 2019).
+# The latest version of FFmpeg is 4.1.x (11th April 2019).
 $ sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 $ sudo apt update && sudo apt upgrade
 ```
