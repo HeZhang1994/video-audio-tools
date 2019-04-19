@@ -76,7 +76,7 @@ $ brew update && brew upgrade ffmpeg
 
 ### 视频和音频处理
 
-使用`VideoAudio_Processing/`中的程序。
+请使用`VideoAudio_Processing/`中提供的程序。
 
 - 运行`run_VAP_extract.py`，**提取**视频中的音频。
 
@@ -88,7 +88,7 @@ $ brew update && brew upgrade ffmpeg
 
 ### 视频和音频剪辑
 
-使用`VideoAudio_Editing/`中的程序。
+请使用`VideoAudio_Editing/`中提供的程序。
 
 - [**新!**] 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
 
