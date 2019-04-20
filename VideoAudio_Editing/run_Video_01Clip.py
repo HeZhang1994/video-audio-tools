@@ -39,9 +39,9 @@ def calc_time_diff(time1_str, time2_str):  # Not used in this code!
 
     # Calculate hh, mm, and ss of timestamp difference.
     diff = time2_s - time1_s  # Total timestamp difference (seconds).
-    diff_h = diff / 3600
-    diff_m = (diff % 3600) / 60
-    diff_s = diff % 60
+    diff_h = int(diff / 3600)
+    diff_m = int((diff % 3600) / 60)
+    diff_s = int(diff % 60)
 
     # Concatenate hh, mm, and ss of timestamp difference.
     diff_str = str(diff_h).zfill(2) + ':' + str(diff_m).zfill(2) + ':' + str(diff_s).zfill(2)
