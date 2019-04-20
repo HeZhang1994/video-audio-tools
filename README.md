@@ -37,8 +37,8 @@ Many thanks to FFmpeg and its contributors. For more related information, please
 
 ## Dependencies
 
-* __ffmpeg 4.1.1__ for Linux
-* __ffmpeg 4.1.3__ for Mac
+* __ffmpeg 4.1.1__ (for Linux)
+* __ffmpeg 4.1.3__ (for Mac)
 
 ### Install FFmpeg for Linux
 
