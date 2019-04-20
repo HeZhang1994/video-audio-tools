@@ -37,8 +37,8 @@
 
 ## 依赖项
 
-* __ffmpeg 4.1.1__ 针对Linux系统
-* __ffmpeg 4.1.3__ 针对Mac系统
+* __ffmpeg 4.1.1__ （针对Linux系统）
+* __ffmpeg 4.1.3__ （针对Mac系统）
 
 ### 安装Linux版本的FFmpeg
 
