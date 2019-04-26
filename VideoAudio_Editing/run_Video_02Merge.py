@@ -38,7 +38,7 @@ def get_file_names(file_path, file_type='.mp4'):
 PATH_MEDIA = 'Media/'
 PATH_CLIPS = 'Clips_Video/'
 FILE_CLIPS = 'List_Video.txt'
-FILE_MERGE = PATH_MEDIA + 'JJY_Suddenly_PhantaCity_new.mp4'
+FILE_MERGE = PATH_MEDIA + 'Demo_Suddenly_PhantaCity_new.mp4'
 
 # Check if the output file exists. If so, delete it for overwriting.
 if os.path.isfile(FILE_MERGE) is True:
