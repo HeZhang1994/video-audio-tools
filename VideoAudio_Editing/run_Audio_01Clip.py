@@ -51,7 +51,7 @@ def calc_time_diff(time1_str, time2_str):  # Not used in this code!
 
 # Part 1 Set the path of input and output media.
 
-INPUT_MEDIA = 'Media/Demo_Suddenly.mp3'
+INPUT_MEDIA = 'Media/Demo.mp3'
 # Download link: Null (The length of input video in this demo should be longer than 12min).
 OUTPUT_PATH = 'Media/Clips_Audio/'
 OUTPUT_NAME = 'Clip_'
