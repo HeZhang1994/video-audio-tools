@@ -18,9 +18,9 @@ import subprocess
 
 
 # Set the path of input and output files.
-INPUT_VIDEO = "Media/Demo_HZY1080P.mp4"
-INPUT_AUDIO = "Media/Demo_HZY.wav"
-OUTPUT_FILE = "Media/Demo_HZY1080P_S.mp4"
+INPUT_VIDEO = "Media/Demo_1080P.mp4"
+INPUT_AUDIO = "Media/Demo.wav"
+OUTPUT_FILE = "Media/Demo_1080P_S.mp4"
 
 # Check if the output file exists. If so, delete it.
 if os.path.isfile(OUTPUT_FILE) is True:
