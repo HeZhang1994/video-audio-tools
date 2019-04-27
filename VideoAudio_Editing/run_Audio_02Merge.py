@@ -38,7 +38,7 @@ def get_file_names(file_path, file_type='.mp3'):
 PATH_MEDIA = 'Media/'
 PATH_CLIPS = 'Clips_Audio/'
 FILE_CLIPS = 'List_Audio.txt'
-FILE_MERGE = PATH_MEDIA + 'Demo_Suddenly_PhantaCity_new.mp3'
+FILE_MERGE = PATH_MEDIA + 'Demo_Suddenly_new.mp3'
 
 # Check if the output file exists. If so, delete it for overwriting.
 if os.path.isfile(FILE_MERGE) is True:
