@@ -30,9 +30,9 @@
 
 - **转换**音频的格式。
 
-- [**新!**] **剪切**视频或音频为片段。
+- **剪切**视频或音频为片段。
 
-- [**新!**] **拼接**视频或音频的片段。
+- **拼接**视频或音频的片段。
 
 ## 依赖项
 
@@ -89,9 +89,9 @@ $ brew update && brew upgrade ffmpeg
 
 请使用`VideoAudio_Editing/`中提供的程序。
 
-- [**新!**] 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
+- 运行`run_VAE_Video_01Clip.py`或`run_VAE_Audio_01Clip.py`，**剪切**视频或音频为片段。
 
-- [**新!**] 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
+- 运行`run_VAE_Video_02Merge.py`或`run_VAE_Audio_02Merge.py`，**拼接**视频或音频的片段。
 
 <br>
 
