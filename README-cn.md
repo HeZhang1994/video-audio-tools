@@ -3,7 +3,6 @@
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-editing/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
-[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 [*English Version*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README-cn.md)
 
