@@ -1,14 +1,14 @@
 # 视频和音频处理/剪辑
 
-[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-editing/blob/master/LICENSE)
+[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/video-audio-tools/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 
-[*English Version*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-editing/blob/master/README-cn.md)
+[*English Version*](https://github.com/HeZhang1994/video-audio-tools/blob/master/README.md) | [*中文版*](https://github.com/HeZhang1994/video-audio-tools/blob/master/README-cn.md)
 
 基于**Python**和**FFmpeg库**实现的处理/剪辑视频和音频。
 
-特别感谢FFmpeg及其贡献者。关于更多相关内容，请访问[FFmpeg](https://www.ffmpeg.org/)网站。
+特别感谢FFmpeg及其贡献者。关于更多相关内容，请访问[FFmpeg网站](https://www.ffmpeg.org/)。
 
 ## 目录
 
