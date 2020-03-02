@@ -30,9 +30,9 @@ Many thanks to FFmpeg and its contributors. For more related information, please
 
 - **Converting** the format of audio.
 
-- [**New!**] **Cutting** video or audio into clips.
+- **Cutting** video or audio into clips.
 
-- [**New!**] **Merging** video or audio clips.
+- **Merging** video or audio clips.
 
 ## Dependencies
 
@@ -89,9 +89,9 @@ Please use the code provided in `VideoAudio_Processing/`.
 
 Please use the code provided in `VideoAudio_Editing/`.
 
-- [**New!**] To **cut** video or audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
+- To **cut** video or audio into clips, run `run_VAE_Video_01Clip.py` or `run_VAE_Audio_01Clip.py`.
 
-- [**New!**] To **merge** video or audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
+- To **merge** video or audio clips, run `run_VAE_Video_02Merge.py` or `run_VAE_Audio_02Merge.py`.
 
 <br>
 
